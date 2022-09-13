@@ -22,6 +22,6 @@ void times_table(void)
 			else
 				_putchar((prod / 10) + '0');
 		}
-		putchar('\n')
+		putchar('\n');
 	}
 }

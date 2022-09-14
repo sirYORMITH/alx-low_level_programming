@@ -15,7 +15,7 @@ int main(void)
 		next = a + b;
 		a = b;
 		b = next;
-		printf("%l", next);
+		printf("%lu", next);
 
 		if (i < 49)
 		{

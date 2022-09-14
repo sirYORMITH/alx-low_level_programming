@@ -25,7 +25,7 @@ while (a <= n)
 		{
 			_putchar(' ');
 			_putchar(' ');
-			_putcahr('0' + rep);
+			_putchar('0' + rep);
 		}
 		else if (rep < 100)
 		{

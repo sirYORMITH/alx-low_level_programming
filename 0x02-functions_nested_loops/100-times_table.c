@@ -38,6 +38,7 @@ while (a <= n)
 			_putchar('0' + rep / 100);
 			_putchar('0' + (rep - 100) / 10);
 			_putchar('0' + rep % 10);
+		}
 		if (b < n)
 		{
 			_putchar(',');
@@ -46,4 +47,5 @@ while (a <= n)
 	}
 	_putchar('\n');
 	a++;
+}
 }

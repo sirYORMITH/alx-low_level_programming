@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdib.h>
+#include <stdlb.h>
 /**
  * main - main block
  * Description: computes and prints the sum of all the multiples of 3 or

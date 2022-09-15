@@ -16,7 +16,7 @@ int main(void)
 		else if (counter % 5 == 0)
 			printf("%s", "Buzz");
 		else if (counter % 3 == 0)
-			printf("%s", Fizz");
+			printf("%s", "Fizz");
 		else
 			printf("%d", counter);
 		if (counter != 100)

@@ -21,7 +21,7 @@ int main(void)
 		}
 	}
 
-	printf("%id\n", max_p_fact);
+	printf("%ld\n", max_p_fact);
 
 	return (0);
 }

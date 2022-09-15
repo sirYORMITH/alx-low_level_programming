@@ -18,7 +18,7 @@ int main(void)
 		else if (counter % 3 == 0)
 			printf("%s", Fizz");
 		else
-			printf('%d', counter);
+			printf("%d", counter);
 		if (counter != 100)
 			putchar(' ');
 	}

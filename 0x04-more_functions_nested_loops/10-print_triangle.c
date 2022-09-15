@@ -7,8 +7,8 @@
  * Return: void
  */
 
-void print_triangle(int size)
-{
+ void print_triangle(int size)
+ {
 	int a, b, c;
 
 	if (size <= 0)
